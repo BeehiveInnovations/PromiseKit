@@ -326,7 +326,3 @@ extern id __nonnull __PMKArrayWithCount(NSUInteger, ...);
 
 
 
-
-__attribute__((unavailable("See AnyPromise")))
-@interface PMKPromise
-@end
